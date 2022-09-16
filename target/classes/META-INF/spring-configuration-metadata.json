@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "config.entity.cat",
+      "type": "com.zzxq.controller.FileUploadController",
+      "sourceType": "com.zzxq.controller.FileUploadController"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
